@@ -5,7 +5,7 @@
         "iron_interstitial": "az",
         "iron_src_id": "az",
         "active": 1,
-        "admob_show_limit":2
+        "admob_show_limit":2,
         "package_id": "ad.polarsdk",
         "publice_id": "2d1df094d1bd4b278fe8ece23da78f78"
     },
