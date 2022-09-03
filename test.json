@@ -4,6 +4,7 @@
         "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
         "iron_interstitial": "az",
         "iron_src_id": "az",
+        "active": 1,
         "package_id": "ad.polarsdk",
         "publice_id": "2d1df094d1bd4b278fe8ece23da78f78"
     },
