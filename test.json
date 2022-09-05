@@ -6,7 +6,10 @@
         "iron_src_id": "az",
         "active": 1,
         "admob_show_limit":2,
+        "dialog_description": "test demo",
+        "dialog_features":"test1-test2-test3",
         "package_id": "ad.polarsdk",
+        "dialog_title":"test",
         "publice_id": "2d1df094d1bd4b278fe8ece23da78f78"
     },
     "success": true
